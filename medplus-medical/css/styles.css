@@ -408,16 +408,49 @@ margin-top: 101px;
 	background: transparent;
 	border: 0;
 }
+
 .hero-text2{
 	padding:30px 0;
-	text-align:center;	
+	text-align:center;
+	width: 50%;	
+	float: left;
 }
+
+.hero-text2 .ordinacni-hodiny h3 {
+	text-align: left;
+	margin-left: 30px;
+}
+
+
+.hero-text2 table {
+	font-size: 2.2rem;
+	width: 70%;
+	color: #814d4d;
+	line-height: 3rem;
+}
+
 .hero-text2 h3{
 font-size: 21px;
 color: #0680BE;
 line-height: 36px;
 text-align: center;
 }
+
+.hero-text3{
+	padding:30px 0;
+	text-align:center;
+	margin-left: 50%;
+	color: #0680BE;
+}
+
+.hero-text3 .kontakt{
+	text-align: left;
+}
+
+.hero-text3 .kontakt_sub{
+	text-align: left;
+}
+
 .navbar-inverse .navbar-nav > li > a {
 	color: #00577D;
 	font-size: 1.2em;
@@ -498,7 +531,7 @@ position: absolute;
 width: 100%;
 top: 0;
 bottom: 0;
-background: rgba(0, 120, 186, 0.65);
+background: #414e4e5e;
 }
 .banner-container > img {
 	width: 100%;
@@ -1442,4 +1475,12 @@ nav#filter li {
 }
 .isotopeWrapper article {
 	margin: 0px;
+}
+
+.hero-section__left table {
+    width: 70%;
+    color:#814d4d;
+    font-size: 2.2rem;
+    line-height: 3rem;
+	background-color: ;
 }
