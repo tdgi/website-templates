@@ -430,7 +430,7 @@ margin-top: 101px;
 }
 
 .hero-text2 h3{
-font-size: 21px;
+font-size: 24px;
 color: #0680BE;
 line-height: 36px;
 text-align: center;
@@ -443,12 +443,19 @@ text-align: center;
 	color: #0680BE;
 }
 
-.hero-text3 .kontakt{
+.hero-text3 .kontakt {
 	text-align: left;
+	padding-bottom: 10px;
 }
 
 .hero-text3 .kontakt_sub{
 	text-align: left;
+	color: #814d4d;
+	font-size: 24px;
+}
+
+.hero-text3 .kontakt_sub h4 {
+	font-size: 22px;
 }
 
 .navbar-inverse .navbar-nav > li > a {
